@@ -1,24 +1,24 @@
 <?php
    $s_plugin_TimeTracking_title = 'Time Tracking';
-   $s_plugin_TimeTracking_subtitle = 'Are you a Developer and have worked on this case? Document your work here.';
-   $s_plugin_TimeTracking_user = 'User';
+   $s_plugin_TimeTracking_subtitle = 'Etes-vous un d&eacute;veloppeur et vous avez travaill&eacute; sur ce cas ? Documentez votre travail ici.';
+   $s_plugin_TimeTracking_user = 'Utilisateur';
 
-   $s_plugin_TimeTracking_view_threshold = 'View Threshold';
-   $s_plugin_TimeTracking_add_threshold = 'Add Threshold';
-   $s_plugin_TimeTracking_delete_threshold = 'Delete Threshold';
-   $s_plugin_TimeTracking_admin_threshold = 'Admin Threshold';
+   $s_plugin_TimeTracking_view_threshold = 'Profil vue';
+   $s_plugin_TimeTracking_add_threshold = 'Profil ajout';
+   $s_plugin_TimeTracking_delete_threshold = 'Profil suppression';
+   $s_plugin_TimeTracking_admin_threshold = 'Profil administration';
 
-   $s_plugin_TimeTracking_expenditure_date = 'Expenditure Date';
-   $s_plugin_TimeTracking_hours = 'Hours';
+   $s_plugin_TimeTracking_expenditure_date = 'Date d\'imputation';
+   $s_plugin_TimeTracking_hours = 'Heures';
    $s_plugin_TimeTracking_information = 'Information';
    $s_plugin_TimeTracking_configuration = 'Configuration';
-   $s_plugin_TimeTracking_update = 'Update';
-   $s_plugin_TimeTracking_entry_date = 'Entry Date (automatic)';
-   $s_plugin_TimeTracking_submit = 'Add';
-   $s_plugin_TimeTracking_sum = 'Sum';
-   $s_plugin_TimeTracking_delete = 'Delete';
-   $s_plugin_TimeTracking_value_error = 'Please enter a valid number in field Hours!';
-   $s_plugin_TimeTracking_history = 'Time allocated';
-   $s_plugin_TimeTracking_deleted = 'Deleted';
-   $s_plugin_TimeTracking_timerecord_menu = 'Jump to TimeTracking';
+   $s_plugin_TimeTracking_update = 'Mise &agrave; jour';
+   $s_plugin_TimeTracking_entry_date = 'Date de saisie (automatique)';
+   $s_plugin_TimeTracking_submit = 'Ajouter';
+   $s_plugin_TimeTracking_sum = 'Somme';
+   $s_plugin_TimeTracking_delete = 'Supprimer';
+   $s_plugin_TimeTracking_value_error = 'Merci de saisir un nombre valide dans le champ Heures !';
+   $s_plugin_TimeTracking_history = 'Temps allou&eacute;';
+   $s_plugin_TimeTracking_deleted = 'Supprim&eacute;';
+   $s_plugin_TimeTracking_timerecord_menu = 'Aller &agrave; TimeTracking';
 ?>
